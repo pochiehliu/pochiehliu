@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [AvMed][website] as a data scientist!
 - 🌱 I’m currently learning everything related to data science 🤣
-- 🥅 2020 Goals: Contribute more to my Open Source repos
+- 🥅 2020 Goals: Contribute more reusable data science code to my Github repo.
 
 ### Connect with me:
 
