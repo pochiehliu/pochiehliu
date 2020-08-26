@@ -17,7 +17,7 @@
 [<img align="left" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][vscode]
 [<img align="left" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />][jupyter]
 [<img align="left" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][conda]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][sql]
 [<img align="left" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
 [<img align="left" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />][pandas]
 [<img align="left" width="28" hex = "#FF6F00" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />][tensorflow]
@@ -38,7 +38,7 @@
 [website]: https://www.avmed.org
 [linkedin]: https://www.linkedin.com/in/pochiehliu/
 [vscode]: https://code.visualstudio.com/
-[sql]: https://www.oracle.com/database/technologies/appdev/sql.html
+[sql]: https://www.postgresql.org/
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [pandas]: https://pandas.pydata.org/
