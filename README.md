@@ -16,6 +16,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />][jupyter]
+[<img align="left" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][conda]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />][pandas]
@@ -46,3 +47,4 @@
 [jupyter]: https://jupyter.org/
 [pytorch]: https://pytorch.org
 [office]: https://www.office.com/
+[conda]: https://anaconda.org/
