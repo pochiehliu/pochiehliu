@@ -32,8 +32,6 @@
 <details>
 <summary>Github Stats & Languages</summary>
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pochiehliu&show_icons=true&hide_border=true" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pochiehliu)
 </details>
 
 [website]: https://www.avmed.org
