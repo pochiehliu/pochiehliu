@@ -30,10 +30,6 @@
 <br />
 
 ---
-<details>
-<summary>Github Stats & Languages</summary>
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pochiehliu&show_icons=true&hide_border=true" />
-</details>
 
 [website]: https://www.avmed.org
 [linkedin]: https://www.linkedin.com/in/pochiehliu/
